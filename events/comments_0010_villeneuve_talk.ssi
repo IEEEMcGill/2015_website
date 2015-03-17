@@ -1,0 +1,24 @@
+<div class="date-date">
+<table summary="Summary Here" cellpadding="0" cellspacing="0">
+	<div class="meta-date">
+		<span class="meta-day">22</span><span class="meta-month">Sep</span><span class="meta-year">2011</span>
+	</div>
+	<a name="villeneuve_talk"></a>
+    <thead>
+		<tr>
+		    <th>Technical Talk by Dr. Alain Villeneuve, CTO of Genia Photonics</th>
+		</tr>
+    </thead>
+    <tbody>
+          <tr class="light">
+            <td><p>Dr. Villeneuve is the founder of multiple million dollar start ups in Montreal. He will be hiring students working on embedded systems, photonic systems, and software development.</p>
+			<p><span style="font-weight:bold;"> Date:</span> September 22, 2011</p>
+			<p><span style="font-weight:bold;"> Time:</span> 3 PM-4 PM</p>
+			<p><span style="font-weight:bold;"> Location:</span> McConnell Engineering Building, room 603</p>
+
+			</td>
+		</tr>
+	</tbody> 
+</table>
+
+</div>

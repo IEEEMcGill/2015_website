@@ -1,0 +1,48 @@
+<div class="date-date">
+<table summary="Summary Here" cellpadding="0" cellspacing="0">
+	<div class="meta-date">
+		<span class="meta-day">18</span><span class="meta-month">Jun</span><span class="meta-year">2012</span>
+	</div>
+	<a name="afshari_talk"></a>
+    <thead>
+		<tr>
+		    <th>Technical Talk</th>
+		</tr>
+    </thead>
+    <tbody>
+          <tr class="light">
+            <td><p><span style="font-weight:bold;">Pushing the Envelope: Oscillators beyond the Conventional Limits</span></p>
+			<p> Ehsan Afshari, Associate Professor, Cornell University</p>
+			<p><span style="font-weight:bold;"> Date:</span> Monday June 18, 2012</p>
+			<p><span style="font-weight:bold;"> Time:</span> 11 AM-12:15PM</p>
+			<p><span style="font-weight:bold;"> Location:</span> McConnell Engineering Building, room 603</p>
+			<p>Light refreshments will be served.<br  /></p>
+
+			<div id="comments_0002" class="comments">
+	        <div id="comments">
+			    <ul class="commentlist">
+				<li class="comment_even">
+    			<div class="author"><span class="name">Abstract</span> </div>
+            		<p align="justify"> There is a growing interest in terahertz systems for compact,   low cost and energy efficient imaging, spectroscopy, and high data rate   communication. In this talk, after a brief introduction to our research   at Cornell University, we present a novel high power varactor-less VCO   at sub-mm-wave and terahertz frequencies. This circuit works based on   the theory of coupled oscillators in a ring structure and efficiently   generates and combines harmonics from multiple core oscillators.   Moreover by adjusting the coupling between oscillators, the frequency   can be tuned. Using a standard 65 nm digital CMOS process, we show a 300   GHz VCO with ~7% tuning range and 0.76 mW of output power. The   generated power is higher than any other CMOS or compound semiconductor   source and at the same time shows the highest tuning range among   terahertz CMOS sources. We will also show a 2-D phased array with more   than 1 mW radiated power at 350GHz and another broadband signal source   at 480GHz with more than 0.2mW generated power over a 40GHz bandwidth. 
+					</p>
+			      	<p>Next, we show a novel dual-band oscillator with low phase noise   performance. This idea leads to a VCO with more than 100% tuning range   (2.48 &ndash; 5.8 GHz) and extremely low phase noise that satisfies the phase   noise requirement for all cellular bands while only taking the area of a   fixed-frequency oscillator. Finally, we introduce a resonant parametric   amplifier/oscillator with an enhanced noise performance by exploiting   the noise-squeezing effect. Noise squeezing occurs through the   phase-sensitive amplification process and suppresses one of the two   quadrature components of the input noise. This structure leads to a   noise figure around 0dB for a narrowband signal at around 10 GHz in   standard 130 nm CMOS process. It can also be exploited to reduce the   phase noise of an oscillator by increasing its amplitude noise.<br />
+Biography: Ehsan Afshari was born in 1979. He received the B.Sc. degree   in Electronics Engineering from the Sharif University of Technology,   Tehran, Iran and the M.S. and Ph.D. degree in electrical engineering   from the California Institute of Technology, Pasadena, in 2003, and   2006, respectively. In August 2006, he joined the faculty in Electrical   and Computer Engineering at Cornell University. His research interests   are mm-wave and terahertz electronics and low-noise integrated circuits   for applications in communication systems, sensing, and biomedical   devices.
+				   	</p>
+					<p>Prof. Afshari serves as the chair of the IEEE Ithaca section, as the   chair of Cornell Highly Integrated Physical Systems (CHIPS), as a member   of International Technical Committee of the IEEE Solid-State Circuit   Conference (ISSCC), as a member of the Analog Signal Processing   Technical Committee of the IEEE Circuits and Systems Society, as a   member of the Technical Program Committee of the IEEE Custom Integrated   Circuits Conference (CICC), and as a member of Technical Program   Committee of the IEEE International Conference on Ultra-Wideband   (ICUWB)
+					</p>
+				</li>
+          		</ul>          
+      		</div>
+			</div>
+			<p align="right">
+				<a class="event_expand" href="#" id="comments_0002_expand">Expand &raquo;</a>
+				<a class="event_collapse" href="#" id="comments_0002_collapse">Collapse &laquo;</a> 	
+			</p>
+			</td>
+		</tr>
+	</tbody> 
+</table>
+<div class="meta-date">
+		<span class="meta-day">18</span><span class="meta-month">Jun</span><span class="meta-year">2012</span>
+	</div>
+</div>

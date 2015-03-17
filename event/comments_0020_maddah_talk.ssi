@@ -1,0 +1,56 @@
+<div class="date-date">
+<table summary="Summary Here" cellpadding="0" cellspacing="0">
+	<a name="maddah_talk"></a>
+    <thead>
+		<tr>
+		    <th>Technical Talk</th>
+		</tr>
+    </thead>
+    <tbody>
+          <tr class="light">
+            <td>
+			<p><span style="font-weight:bold;"> Title:</span> Fundamental Limits of Caching</p>
+			<p><span style="font-weight:bold;"> Speaker:</span> Dr. Mohammad Ali Maddah-Ali, Bell Labs</p>
+			<p><span style="font-weight:bold;"> Date:</span> Friday April 5, 2013</p>
+			<p><span style="font-weight:bold;"> Time:</span> 2PM - 3PM</p>
+			<p><span style="font-weight:bold;"> Location:</span> McConnell Engineering Building, room 603</p>
+<p><span style="color:red">There will be 15 minutes of networking and socializing prior to the talk</span></p>
+			<div id="comments_0020" class="comments">
+	        <div id="comments">
+			    <ul class="commentlist">
+				<li class="comment_even">
+    			<div class="author"><span class="name">Abstract</span> </div>
+            		<p align="justify">Caching is a technique to reduce peak traffic rates by prefetching popular content in memories at the end users. Conventionally, cache memories are exploited by delivering requested contents in part locally rather than through the network.  In this talk, we present a novel caching approach that can achieve a significantly larger reduction in peak rate compared to previously known caching schemes.  In particular, the improvement can be on the order of the number of end users in the network.</p><p>
+In the proposed approach, the cache placement is carefully designed in order to create multicasting opportunities even among users with different demands. Using an information theoretic argument, we show that the proposed scheme is within a constant factor from "capacity" for all values of the problem parameters.</p><p>This is a joint work with Urs Niesen.</p>
+				</li>
+
+				<li class="comment_even">
+    			<div class="author"><span class="name">Biography</span> </div>
+            		<p align="justify">Mohammad Ali Maddah-Ali received the PhD from the University of Waterloo, Waterloo, ON, Canada. From March 2007 to December 2007, he was working at the Wireless Technology Laboratories, Nortel Networks, Ottawa, ON, Canada, in a joint program between University of Waterloo and Nortel Networks. From January 2008 to August 2010, he was a Postdoctoral Fellow at the Wireless Foundations Center, Department of Electrical Engineering and Computer Sciences, the University of California at Berkeley. Since September 2010, he has been with Bell Laboratories, Alcatel-Lucent, Holmdel, NJ, as a communication networks research scientist. His research interests include wireless communications and network information theory.</p></li>
+
+
+          		</ul>          
+      		</div>
+			</div>
+
+
+
+			<p align="right">
+				<a class="event_expand" href="#" id="comments_0020_expand">Expand &raquo;</a>
+				<a class="event_collapse" href="#" id="comments_0020_collapse">Collapse &laquo;</a> 	
+			</p>
+			</td>
+		</tr>
+	</tbody> 
+</table>
+
+
+
+<div class="meta-google-calendar"><a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Technical%20Talk%20by%20McGill%20IEEE&dates=20130405T180000Z/20130405T190000Z&details=&location=McConnell%20Engineering%20Building%2C%20room%20603&trp=false&sprop=www.sb-ieee.ece.mcgill.ca&sprop=name:McGill%20IEEE%20Student%20Branch" target="_blank"><img src="images/google-calendar.png"></a></div>
+
+
+
+<div class="meta-date">
+		<span class="meta-day">5</span><span class="meta-month">Apr</span><span class="meta-year">2013</span>
+	</div>
+</div>

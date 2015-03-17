@@ -1,0 +1,54 @@
+<div class="date-date">
+	<a name="dudek_talk"></a>
+<table summary="Summary Here" cellpadding="0" cellspacing="0">
+
+    <thead>
+		<tr>
+		    <th>IEEE RAS Talk</th>
+		</tr>
+    </thead>
+    <tbody>
+          <tr class="light">
+            <td>
+			<p><span style="font-weight:bold;"> Title:</span> A Multi-modal approach for coral reef data collection</p>
+			<p><span style="font-weight:bold;"> Speaker:</span> Dr. Gregory Dudek, James McGill Professor, McGill University</p>
+			<p><span style="font-weight:bold;"> Date:</span> Monday November 19, 2012</p>
+			<p><span style="font-weight:bold;"> Time:</span> 5:30PM - 6:30PM</p>
+			<p><span style="font-weight:bold;"> Location:</span> McConnell Engineering Building, room 437</p>
+			<p>Light refreshments will be served.<br  /></p>
+
+			<div id="comments_0013" class="comments">
+	        <div id="comments">
+			    <ul class="commentlist">
+				<li class="comment_even">
+    			<div class="author"><span class="name">Abstract</span> </div>
+            		<p align="justify">Our work deals with sensor-based mobile robotics. That is, the use of vision and other sensors to enable the function of autonomous robotics systems.  In this talk I will address  the development of underwater data-collection systems, specifically for domains such as coral reefs. This is a challenging domain since tele-operation is very difficult and so there is a premium on robotic autonomy.  Our work has taken two main branches: the use of robots as an assistant for a human diver, where human-robot interaction is a key requirement, and the use of a group of heterogeneous vehicles with complementary abilities. In the former case, we have develop a gesture-based dialog system via which a robot can be controlled and even programmed by a diver working with it underwater. This approach combines tracking and dialog management, and has also led to the development of a unique class of fiducial markers. In the latter case, we are interested in using an air vehicle for long range situation awareness and the detection of possible objects of interest. These targets can then be examined in greater detail by our underwater vehicle which is directed to automatically select the most notable visual features.
+</p>
+				</li>
+
+				<li class="comment_even">
+    			<div class="author"><span class="name">Biography</span> </div>
+            		<p align="justify">Gregory Dudek is a Professor with the School of Computer Science and a member of the McGill Research Centre for Intelligent Machines (CIM). In 2010 he was also awarded the Canadian Image Processing and Pattern Recognition Award for Research Excellence and also for Service to the Research Community.</p><p>He obtained his PhD in Computer Science (computational vision) from the University of Toronto. He has published over 200 research papers on subjects including visual object description and recognition, robotic navigation and map construction, distributed system design and biological perception. He has chaired and been otherwise involved in numerous national and international conferences and professional activities concerned with Robotics, Machine Sensing and Computer Vision. </p></li>
+
+
+          		</ul>          
+      		</div>
+			</div>
+
+
+
+			<p align="right">
+				<a class="event_expand" href="#" id="comments_0013_expand">Expand &raquo;</a>
+				<a class="event_collapse" href="#" id="comments_0013_collapse">Collapse &laquo;</a> 	
+			</p>
+			</td>
+		</tr>
+	</tbody> 
+</table>
+
+
+
+<div class="meta-date">
+		<span class="meta-day">19</span><span class="meta-month">Nov</span><span class="meta-year">2012</span>
+	</div>
+</div>

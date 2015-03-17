@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>McGill IEEE Student Branch | Gallery</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link rel="stylesheet" href="css/layout.css" type="text/css" />
+<script type="text/javascript" src="scripts/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="scripts/jquery.slidepanel.setup.js"></script>
+<!-- load Galleria -->
+<script type="text/javascript" src="galleria/galleria-1.2.8.min.js"></script>
+<link rel="shortcut icon" href="images/main_favicon.ico">
+</head>
+<body>
+
+<!-- ####################################################################################################### -->
+<!--#include virtual="include/header.ssi" -->
+<!-- ####################################################################################################### -->
+<div class="wrapper col2">
+  <div id="topnav">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="events.html">Events</a></li>
+      <li><a href="membership.html">Membership</a></li>
+	  	  <li><a href="mcnaughton.html">Services</a></li>
+      <li class="active"><a href="gallery.html">Gallery</a></li>
+      <li><a href="calendar.html">Schedule</a></li>
+      <li class="last"><a href="contact_us.html">Contact Us</a></li>
+    </ul>
+	<!--#include virtual="include/social.ssi" -->
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+
+<!-- ####################################################################################################### -->
+
+  <div id="container">
+    <div id="content" align="justify" style="float:left">
+
+	<iframe id="frame" width="1000" height="653" frameBorder="0" scrolling="no"></iframe><br/><br/><br/>
+	<table id="preview" summary="Summary Here" cellpadding="0" cellspacing="0">		
+	</table>
+
+
+<p id="test"></p>
+
+    <script>
+		var events = ["WIE Women's Day March 2014","McN Info Session March 2014","McNaughton Center Opening Session January 2014","IEEEXtreme 7.0 Competition October 2013","Start of 2013-2014 Year BBQ","New York Trip", "WIE Workshop","Ottawa Company Tour","IEEE RAS Talk 2","Silicon Labs at McGill","BioMed Talk","IEEEXtreme 6.0 Competition","IEEE RAS Talk","Life at the Google","Field Trip to InterDigital","Start of 2012-2013 Year BBQ","Boston Trip"];
+		var eventsid = ["wie14","McN0414","McN","IEEExtreme2013","BBQ13","newyork","wie","OttawaTour","AghiliTalk","SiliconLabs","HedjaziTalk","IEEExtreme2012","RoboticTalk","GoogleTalk","InterDigitalFieldTrip","BBQ","BostonTrip"];
+
+		var levents=events.length;
+		var acc = '<thead><tr>';
+		for (var index = 0; index < levents ; index++) {
+			acc=acc+'<th style="width:217px">'+events[index]+'</th>';
+			if((index%3) == 2) {
+				acc=acc+'</tr></thead><tbody><tr class="light">';
+				for (var j = index-2; j <= index; j++) {
+					acc=acc+'<td><a class="loadimage" id='+eventsid[j]+' href="#"><img src="images/allevents/'+eventsid[j]+'/'+eventsid[j]+'_1.jpg" width="100%"/>'+'</a></td>';
+				}
+				acc=acc+'<thead><tr></tr></tbody>';
+			}
+		}
+		
+
+		index = index - 1;
+		if((index%3) != 2) {
+			acc=acc+'</tr></thead><tbody><tr class="light">';
+			index = index - (index%3);
+			for (var j = index ; j <= levents - 1; j++) {
+				acc=acc+'<td><a class="loadimage" id='+eventsid[j]+' href="#"><img src="images/allevents/'+eventsid[j]+'/'+eventsid[j]+'_1.jpg" width="100%"/>'+'</a></td>'
+			}
+		}
+
+		acc=acc+'<thead><tr></tr></tbody></tr></thead>';
+
+
+
+		$('#preview').append(acc);
+
+
+      	$(document).ready(function(){
+		$('#frame').attr('src', "gallery/wie14.html");
+		$('a.loadimage').click(function() {
+			var location="gallery/" + $(this).attr("id") + ".html";
+			$('#frame').attr('src', location);
+		});
+      });
+    </script>
+
+
+
+
+	
+    </div>
+	<!--#include virtual="include/rightpanel.ssi" -->						
+<div class="clear"></div>
+  </div>
+
+<!-- ####################################################################################################### -->
+<div class="wrapper col5">
+  <div id="footer"><br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<!--#include virtual="include/copyright.ssi" -->
+</body>
+</html>

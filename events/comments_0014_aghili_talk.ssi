@@ -1,0 +1,53 @@
+<div class="date-date">
+	<a name="aghili_talk"></a>
+<table summary="Summary Here" cellpadding="0" cellspacing="0">
+
+    <thead>
+		<tr>
+		    <th>IEEE RAS Talk</th>
+		</tr>
+    </thead>
+    <tbody>
+          <tr class="light">
+            <td>
+			<p><span style="font-weight:bold;"> Title:</span> A Historical Perspective & Review of In-Space Robotics & Enabling Technologies</p>
+			<p><span style="font-weight:bold;"> Speaker:</span> Dr. Farhad Aghili </p>
+			<p><span style="font-weight:bold;"> Date:</span> Monday December 3, 2012</p>
+			<p><span style="font-weight:bold;"> Time:</span> 10:30am - 11:30am</p>
+			<p><span style="font-weight:bold;"> Location:</span> McConnell Engineering Building, room 437</p>
+			<p>Light refreshments will be served.<br  /></p>
+
+			<div id="comments_0014" class="comments">
+	        <div id="comments">
+			    <ul class="commentlist">
+				<li class="comment_even">
+    			<div class="author"><span class="name">Abstract</span> </div>
+            		<p align="justify">The history of in-space robotics began three decades ago by deployment of  the Canadarm, which has played a key role throughout the Space Shuttle Program and then later in the International Space Station  (ISS)  Program.  The Canadarm has been used to deploy and capture many spacecraft, to perform inspection and support EVA operations, and in particular, played a critical role on  Hubble Space Telescope servicing missions.  The Canadarm was complemented by deployment of a dual arm manipulator called Dextre capable of completing human-scale delicate servicing tasks. Since then, the paradigm of  in-orbit servicing using a space manipulator has attracted  researchers who were motivated by several national and international missions not only for repairing, rescuing, and refueling failed satellites but also for removing defunct satellites and large orbital debris.  The speaker reviews a number of space robotic missions and  enabling technologies through several R&D projects at Canadian Space Agency (CSA). In particular, the Next Generation Canadarm (NGC) research project and the innovative design of reconfigurable manipulators based on passive telescopic joints,   ground testbeds for space manipulators  based on the notion of dynamic  emulation,   advanced vision and  intelligent  control systems for guidance of space manipulators to capture and stabilize drifting/tumbling  free-floater objects,  space manipulator for docking visiting vehicles to ISS and refueling spacecraft, space manipulator for in-orbit inspection of spacecraft, active orbital debris removal, and fault-tolerant/energy-efficient control of electric motors for the joints of a space manipulator or the wheels of  a rover will be discussed.</p>
+				</li>
+
+				<li class="comment_even">
+    			<div class="author"><span class="name">Biography</span> </div>
+            		<p align="justify">Following completing his Ph.D. program at McGill University in 1998, Dr. Aghili joined the Canadian Space Agency (CSA) where he is currently Research Scientist with the Space Exploration directory. He is  also an Affiliate Associate Professor in the Department of Mechanical & Industrial Engineering of Concordia University.  At CSA,  he served as technical authority, scientific authority, and technical lead for development of several robotic mission concepts for planetary exploration and orbital debris removal, numerous R&D projects and well as industrial Technology Development projects  on  advanced  space  vision and manipulator systems.  He is the first author of more than 120 scientific papers, 3 book chapters, and 10 patents and patent applications in US and Canada. He is the recipient of the 2007 ASME/IEEE International Conference on Mechatronics Best Paper Award, the CSA Appreciation Award for his contribution to development of STVF,  CSA Stimulus Team (NGC) award, IEEE Senior Member,  Chair of IEEE Montreal Robotics & Automation Technical Chapter, and official Canadian delegates to the Inter-Agency Space Debris Coordination Committee (IADC). </p></li>
+
+
+          		</ul>          
+      		</div>
+			</div>
+
+
+
+			<p align="right">
+				<a class="event_expand" href="#" id="comments_0014_expand">Expand &raquo;</a>
+				<a class="event_collapse" href="#" id="comments_0014_collapse">Collapse &laquo;</a> 	
+			</p>
+			</td>
+		</tr>
+	</tbody> 
+</table>
+
+
+
+<div class="meta-date">
+		<span class="meta-day">3</span><span class="meta-month">Dec</span><span class="meta-year">2012</span>
+	</div>
+</div>

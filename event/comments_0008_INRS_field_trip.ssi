@@ -1,0 +1,48 @@
+<div class="date-date">
+   <table summary="Summary Here" cellpadding="0" cellspacing="0">
+	<a name="inrs_trip"></a>
+        <thead>
+          <tr>
+            <th>Field Trip to INRS</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="light">
+            <td><p dir="ltr">The McGill IEEE Student Branch invites you to our first field trip of the year.</p>
+		<p><span style="font-weight:bold;"> Date:</span> September 16, 2011</p>
+			<p><span style="font-weight:bold;"> Time:</span> 9 AM</p>
+			<p> Lunch will also be provided for FREE<br  /></p>
+
+		<div id="comments_0008" class="comments">
+              <div id="comments">
+
+<ul class="commentlist">
+    <li class="comment_even"><div class="author"><span class="name">The program of the day is as follows:</span> </div>
+      <ul><li><p dir="ltr">Coffee and croissants, along with a welcome by the director of the center.</p>
+        </li>
+        <li>
+          <p dir="ltr">Project presentations.</p>
+        </li>
+        <li>
+          <p dir="ltr">Buffet lunch.</p>
+        </li>
+        <li>
+          <p dir="ltr">Visits of the facilities.</p>
+        </li>
+      </ul>
+      </li>
+    </ul>
+              </div>
+			</div>
+    	<p align="right">
+			<a class="event_expand" href="#" id="comments_0008_expand">Expand &raquo;</a> 
+			<a class="event_collapse" href="#" id="comments_0008_collapse">Collapse &laquo;</a> 	
+	
+		</p>
+
+</td></tr></tbody></table>
+
+<div class="meta-date">
+		<span class="meta-day">16</span><span class="meta-month">Sep</span><span class="meta-year">2011</span>
+	</div>
+</div>

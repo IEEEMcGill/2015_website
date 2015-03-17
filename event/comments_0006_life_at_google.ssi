@@ -1,0 +1,61 @@
+<div class="date-date">
+<table summary="Summary Here" cellpadding="0" cellspacing="0">
+	<a name="life_in_google"></a>
+    <thead>
+		<tr>
+		    <th>Life at the Google</th>
+		</tr>
+    </thead>
+    <tbody>
+          <tr class="light">
+            <td>
+			<p><span style="font-weight:bold;"> Title:</span> Cloud based machine learning, Chrome experimentation and life at the Google</p>
+			<p><span style="font-weight:bold;"> Speaker:</span> Robert Kaplow, Software Developer, Google</p>
+			<p><span style="font-weight:bold;"> Date:</span> Monday October 29, 2012</p>
+			<p><span style="font-weight:bold;"> Time:</span> 4 PM - 5PM</p>
+			<p><span style="font-weight:bold;"> Location:</span> McConnell Engineering Building, room 603</p>
+			<p>Light refreshments will be served.<br  />		</p>
+
+
+			<div id="comments_0006" class="comments">
+	        <div id="comments">
+			    <ul class="commentlist">
+				<li class="comment_even">
+    			<div class="author"><span class="name">Abstract</span> </div>
+            		<p align="justify">In this talk, I will discuss the projects I have been involved in as a software developer at Google, specifically the Prediction API and Chrome web browser. The Prediction API is a cloud based machine learning service which can handle regression and classification tasks. The input data to this service is supplied by a user, and a RESTful API call triggers a machine learning system working in the back-end. The results can be received on-demand via another API call. In the first part of my talk, I will present the overall system and challenges in development of the Prediction API technology. In the second part, I will discuss my work  in providing tools for A/B testing on new Chrome features. The Chrome web browser is one of the most popular browsers today and there has been increasing demand for large scale experimentation on this platform.  </p>
+<p>Finally, I will also talk about working in software engineering industry, specifically how it is done at Google.</p>
+				</li>
+
+				<li class="comment_even">
+    			<div class="author"><span class="name">Biography</span> </div>
+            		<p align="justify">Robert Kaplow is a software developer at Google. He recently joined the Chrome team and has been working on improving tools for testing new experimental Chrome features. Previously, he worked in the Google Research group on the Prediction API and in machine learning infrastructure. Robert completed Bachelor’s and Master’s degree in Computer Science at McGill University. His research at McGill focused on probabilistic decision making and reinforcement learning.</p></li>
+
+
+          		</ul>          
+      		</div>
+			</div>
+
+
+
+
+			<p align="right">
+				<a class="event_expand" href="#" id="comments_0006_expand">Expand &raquo;</a>
+				<a class="event_collapse" href="#" id="comments_0006_collapse">Collapse &laquo;</a> 	
+			</p>
+
+
+
+
+			</td>
+		</tr>
+	</tbody> 
+</table>
+
+
+<div class="meta-google-calendar"><a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Cloud%20based%20machine%20learning%2C%20Chrome%20experimentation%20and%20life%20at%20Google&dates=20121029T200000Z/20121029T210000Z&details=&location=McConnell%20Engineering%20Building%2C%20room%20603&trp=false&sprop=http%3A%2F%2Fwww.sb-ieee.ece.mcgill.ca%2Fevents.html&sprop=name:McGill%20IEEE" target="_blank"><img src="images/google-calendar.png" border=0></a></div>
+
+
+<div class="meta-date">
+		<span class="meta-day">29</span><span class="meta-month">Oct</span><span class="meta-year">2012</span>
+	</div>
+</div>

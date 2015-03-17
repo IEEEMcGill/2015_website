@@ -1,0 +1,68 @@
+<div class="date-date">
+	<a name="fda_seminar"></a>
+<table summary="Summary Here" cellpadding="0" cellspacing="0">
+
+    <thead>
+		<tr>
+		    <th>IEEE RAS Talk</th>
+		</tr>
+    </thead>
+    <tbody>
+          <tr class="light">
+            <td>
+			<div class="imgholder"><a href="#"><img src="images/events13/MDASeminar/mda.jpeg" alt="" width="640" /></a></div>
+			<p><span style="font-weight:bold;"> Title:</span> A Half Century of Satellite Communications</p>
+			<p><span style="font-weight:bold;"> Speaker:</span>  Peter Garland, Director Advanced Programs of MDA Corporation</p>
+			<p><span style="font-weight:bold;"> Date:</span> Friday Nov. 22</p>
+			<p><span style="font-weight:bold;"> Time:</span> 11:45 to 13:30</p>
+			<p><span style="font-weight:bold;"> Location:</span> FDA5 (3450 University, near the Engineering Student Centre)</p>
+			<p>Refreshments will be served.<br  /></p>
+
+			<div id="comments_0023" class="comments">
+	        <div id="comments">
+			    <ul class="commentlist">
+		<!-- 		<li class="comment_even">
+    			<div class="author"><span class="name">Abstract</span> </div>
+            		<p align="justify">Our work deals with sensor-based mobile robotics. That is, the use of vision and other sensors to enable the function of autonomous robotics systems.  In this talk I will address  the development of underwater data-collection systems, specifically for domains such as coral reefs. This is a challenging domain since tele-operation is very difficult and so there is a premium on robotic autonomy.  Our work has taken two main branches: the use of robots as an assistant for a human diver, where human-robot interaction is a key requirement, and the use of a group of heterogeneous vehicles with complementary abilities. In the former case, we have develop a gesture-based dialog system via which a robot can be controlled and even programmed by a diver working with it underwater. This approach combines tracking and dialog management, and has also led to the development of a unique class of fiducial markers. In the latter case, we are interested in using an air vehicle for long range situation awareness and the detection of possible objects of interest. These targets can then be examined in greater detail by our underwater vehicle which is directed to automatically select the most notable visual features.
+</p> -->
+				</li>
+				<div align="center"><div class="imgholder"><img src="images/events13/MDASeminar/peter-garland.jpg" alt="242" width="175" /></div></div><br>
+				
+				
+				<li class="comment_even">
+    			<div class="author"><span class="name">Abstract</span> </div>
+           		<p align="justify" ></p>This will be a perspective on satellite communications from someone whose career started in precursor technologies to Satellites (short wave radio) and who has grown up with the evolution of satellite communications through major intercontinental trunking, to connecting smaller nations to the international telephone network and through a period when there was a real debate as to if satellite communications would disappear due to the introduction of fibre optics. The talk will look at the early days of satellite communications with Telstar and Relay, but will also look at the important role satellites have played in the connecting of Canadians over the past fifty years. Finally there will be an update of where satellites play a major role today in TV and the Broadband Internet and some projections of how satellites will play an important role in the future, especially in the world of "communications anywhere" and Satellite on the Move (SOTM).</p></li>
+				
+				<li class="comment_even">
+    			<div class="author"><span class="name">Biography</span> </div>
+           		<p align="justify" ></p>Peter has worked on Satellite Communications in Canada for over 30 Years. During that time he has been involved in nearly every program where the state of art was moved forward. In the mid nineties he led studies that eventually resulted in the flight of an advanced Ka Band digital payload on the ANIK F2 satellite. Later on, he led a team that was instrumental in developing and promoting the DVB-RCS standard as the first worldwide standard for two way satellite communications. Peter’s career in Communications started as an apprentice in a Short Wave Transmitting station in his native United Kingdom. As a young man he was also privileged to be part of early Satellite Communications activities at Goonhilly Radio station in the West of England. His only time away from Communications was a spell of seven years spent at the University of Birmingham (UK) designing payloads for X Ray Astronomy missions, including on one of the first Space Shuttle flights. Peter currently leads Advanced Programs within MDA Satellite Systems (Montreal).</p></li>
+
+          		</ul>          
+      		</div>
+			</div>
+
+			<div align="center"><a href="events/files/mda-seminar-2013.pdf"><font face="verdana" color="blue"><b>Download Brochure</a></b></font></div><br>
+			<div align="center"><a href="http://goo.gl/VyN61n"><font face="verdana" color="red"><b>Registration Form</a></b></font></div><br>
+
+            Sign Up & Info On <a  href="http://engineering.myfuture.mcgill.ca">MyFuture McGill</a><br><br>
+            You can visit <a  href="http://www.mdacorporation.com/corporate/index.cfm">MDA Corporation</a> for more infomation.<br>
+            To become a member or renew your IEEE membership please visit McGill IEEE <a  href="membership.html#How_to_join">Membership</a> page.</p><br />
+
+
+ 			<p align="right">
+				<a class="event_expand" href="#" id="comments_0023_expand">Expand &raquo;</a>
+				<a class="event_collapse" href="#" id="comments_0023_collapse">Collapse &laquo;</a> 	
+			</p> 
+			</td>
+		</tr>
+	</tbody> 
+</table>
+
+
+
+<div class="meta-google-calendar"><a href="https://www.google.com/calendar/render?action=TEMPLATE&hl=en&text=Seminar+on+A+Half+Century+of+Satellite+Communications+by+Peter+Garland+(MDA)&dates=20131122T113000/20131122T130000&location=FDA5+(3450+University,+near+the+Engineering+Student+Centre)&ctz=America/Montreal&details&sf=true&output=xml" target="_blank"><img src="images/google-calendar.png"></a> </div>
+
+<div class="meta-date">
+		<span class="meta-day" style="font-size:15px;">22</span><span class="meta-month">Nov</span><span class="meta-year">2013</span>
+	</div>
+</div>

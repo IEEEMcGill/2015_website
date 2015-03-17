@@ -1,0 +1,53 @@
+<div class="date-date">
+<table summary="Summary Here" cellpadding="0" cellspacing="0">
+	<a name="hejazi_talk"></a>
+    <thead>
+		<tr>
+		    <th>Technical Talk</th>
+		</tr>
+    </thead>
+    <tbody>
+          <tr class="light">
+            <td>
+			<p><span style="font-weight:bold;"> Title:</span> Cardiovascular Magnetic Resonance Imaging: An Emerging Field in Clinical Practice</p>
+			<p><span style="font-weight:bold;"> Speaker:</span> Dr. Mehdi Hedjazi Moghari, Research Fellow at Harvard Medical Center</p>
+			<p><span style="font-weight:bold;"> Date:</span> Monday November 12, 2012</p>
+			<p><span style="font-weight:bold;"> Time:</span> 2PM - 3PM</p>
+			<p><span style="font-weight:bold;"> Location:</span> McConnell Engineering Building, room 603</p>
+			<p>Pizza and pop will be served.<br  /></p>
+<p><span style="color:red">There will be 15 minutes of networking and socializing prior to the talk</span></p>
+			<div id="comments_0007" class="comments">
+	        <div id="comments">
+			    <ul class="commentlist">
+				<li class="comment_even">
+    			<div class="author"><span class="name">Abstract</span> </div>
+            		<p align="justify">Cardiovascular magnetic resonance imaging (MRI) is an emerging modality that offers unique measurements and observations to cardiologists. Although echocardiography, X-ray angiography, and multi-detector CT modalities are conventionally used in clinical practice, cardiac MRI is a noninvasive and complementary technique that offers gold standard measurements for the assessment of regional and global cardiac function, myocardial infarction, and coronary artery disease.</p>
+			      	<p>However, the acquisition of high spatial resolution cardiac images is challenging due to respiratory-induced heart motion. Prospective compensation of the respiratory motion unpredictably prolongs scan-time that impedes the acquisition of images with a high spatial resolution. In this talk, the conventional prospective respiratory motion compensation algorithm in cardiac MRI is briefly presented. A new adaptive algorithm is then introduced that minimizes the respiratory-induced heart motion in a predictable scan-time. Next, a novel algorithm based on Compressed Sensing (CS) is presented to reduce scan-time while minimizing the respiratory motion of the heart. The reduction in scan-time can be used as a tradeoff to improve image spatial resolution.</p>
+				</li>
+
+				<li class="comment_even">
+    			<div class="author"><span class="name">Biography</span> </div>
+            		<p align="justify">Mehdi Hedjazi Moghari was born in Iran. He received B.Sc. and M.Sc. degrees in Electrical Engineering from Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran in 1999 and 2002. Mehdi received Ph.D. degree in Electrical and Computer Engineering at Queen’s University, Kingston, Ontario, Canada, in 2008. During 2009 and 2012, he continued his research at the cardiac MRI Center of Harvard Medical School at Beth Israel Deaconess Medical Center, Boston, MA, USA. He is now with the Cardiology Department of Boston Children’s Hospital. His research interest is cardiovascular MRI including: pulse sequence design, motion compensation, image registration, and reconstruction.</p></li>
+
+
+          		</ul>          
+      		</div>
+			</div>
+
+
+
+			<p align="right">
+				<a class="event_expand" href="#" id="comments_0007_expand">Expand &raquo;</a>
+				<a class="event_collapse" href="#" id="comments_0007_collapse">Collapse &laquo;</a> 	
+			</p>
+			</td>
+		</tr>
+	</tbody> 
+</table>
+
+<div class="meta-google-calendar"><a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Dr.%20Mehdi%20Hedjazi%20Technical%20Talk&dates=20121112T190000Z/20121112T200000Z&details=&location=McConnell%20Engineering%20Building%2C%20room%20603&trp=false&sprop=http%3A%2F%2Fwww.sb-ieee.ece.mcgill.ca&sprop=name:McGill%20IEEE" target="_blank"><img src="images/google-calendar.png"></a></div>
+
+<div class="meta-date">
+		<span class="meta-day">12</span><span class="meta-month">Nov</span><span class="meta-year">2012</span>
+	</div>
+</div>
