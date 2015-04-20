@@ -1,0 +1,42 @@
+<!doctype html>
+<html ng-app="customersApp">
+	<head>
+		<title>Starting With Controllers</title>
+        <script src = "angular.js"></script>
+        <script src = "app/app.js"></script>
+        <script src = "app/controllers/customersController.js"></script>
+
+		<style>
+			table {
+			    width: 500px;   
+			}
+
+			th {
+			    text-align: left;
+			    background-color: #efefef;
+			    cursor: pointer;
+			}
+		</style>
+	</head>
+	<body ng-controller="CustomersController">
+				<h2>Starting With Controllers</h2>
+				Filter: <input type="text" ng-model="customerFilter.name"></input>
+				</br>
+				
+				</br>
+				<table>
+					<tr>
+						<th ng-click="doSort('name')">Name</th>
+						<th ng-click="doSort('city')">City</th>
+						<th ng-click="doSort('orderTotal')">Order</th>
+						<th ng-click="doSort('joined')">Joined</th>
+					</tr>
+					<tr ng-repeat="customer in customers |orderBy:sort:reverse|filter:customerFilter">
+						<td>{{customer.name}}</td>
+						<td>{{customer.city}}</td>
+						<td>{{customer.orderTotal|currency}}</td>
+						<td>{{customer.joined |date:'dd-MM-yyyy'}}</td>
+					</tr>
+				</table>
+
+	</body>
